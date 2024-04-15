@@ -1,0 +1,94 @@
+.first{
+    background-color: black;
+    color: white;
+    text-align:center ;
+    padding: 15px;
+}
+
+li{
+    color: gray;
+}
+
+h1,ul,li{
+    display: inline;
+}
+
+.second{
+    margin-top: 20px;
+    background-color: white;
+}
+
+.second{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    text-align: center;
+    background-color: white;
+}
+.photo1{
+    display: inline-block;
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+    width: 291px;
+    height: 315px
+    
+}
+
+img{
+    
+    height: 195px;
+}
+
+span{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    font-size: 16px; font-style: oblique;
+}
+
+
+.photo2{
+    display: inline-block;
+    width: 292px;
+    height: 315px;
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+}
+
+.photo3{
+    display: inline-block;
+    width: 292px;
+    height:315px;
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+    
+}
+
+.third{
+    padding-bottom: 20px;
+    padding-top:20px;
+    text-align: center;
+}
+
+form{
+    padding-top: 10px;
+}
+table{
+    
+    font-size: 20px;
+}
+
+td{
+  padding-top: 5px;
+}
+
+button{
+    width: 40%;
+    margin-top: 10px;
+    background-color:;
+}
+
